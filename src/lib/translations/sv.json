@@ -1,0 +1,8 @@
+{
+  "greeting": "Hej",
+  "button": "Klicka på mig",
+  "hero": {
+    "title": "Min titel",
+    "subTitle": "Min undertext"
+  }
+}
