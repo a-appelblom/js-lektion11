@@ -1,6 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import Divider from "../components/divider";
 import HomeHero from "../components/HomeHero";
+import ShowMe from "../components/ShowMe";
 import StoreMe from "../components/StoreMe";
 import ToggleMe from "../components/ToggleMe";
 import TranslateMe from "../components/TranslateMe";
@@ -28,6 +29,9 @@ export default function Home() {
       <TriggerMe />
       <Divider />
       <TranslateMe />
+      <Divider />
+      <ShowMe />
+      <Divider />
 
       {/* <div ref={myRef}>
         <p>Hej Svej</p>
